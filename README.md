@@ -8,7 +8,7 @@ It's very nice to meet you :)
   - Studied urban studies and environmental economics (also took a GIS class)
   - Used GIS for advocacy work at the California Public Utilities Commission (CPUC) related to 💧⚡📶📞🔥
 - Very passionate about using maps🗺 and visualizations 📊 as a tool to communicate and spread awareness about issues we care about!
-- Visited Japan this past winter break! 
+- Visited Japan this past winter break! *A picture I took of Shinkyo Bridge in Nikko, Japan 📸*
   
 <img src = "https://user-images.githubusercontent.com/77999290/212211254-a9b8873b-c9eb-43c3-aa26-78e9f28c2b31.png" height = "400" alt = "A picture I took of *Shinkyo Bridge* in Nikko Japan"/>
 
